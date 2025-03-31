@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mobile Dev**
 
-- 👯 I’m looking to collaborate on ** Porject that Solve interesting business problems and real-world challenges.**
+- 👯 I’m looking to collaborate on ** Project that Solve interesting business problems and real-world challenges.**
 
 - 💬 Ask me about **React, Next Js.**
 
