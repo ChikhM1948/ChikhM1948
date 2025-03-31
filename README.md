@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chikh Mohamed Amine</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **Attendance Tracker WEBAPP**
+- 🔭 I’m currently working on **Attendance Tracker & Therapy toolbox.**
 
-- 🌱 I’m currently learning **Mobile Dev Application**
+- 🌱 I’m currently learning **Mobile Dev**
 
-- 👯 I’m looking to collaborate on **Passionate PROJECT**
+- 👯 I’m looking to collaborate on ** Porject that Solve interesting business problems and real-world challenges.**
 
-- 💬 Ask me about **React, Next Js**
+- 💬 Ask me about **React, Next Js.**
 
 
 <p align="left">
