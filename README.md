@@ -5,11 +5,11 @@
 
 - ✨ I’m updating **the attendance student tracker.**
   
-- 🌱 I’m currently learning **Mobile Dev**
+- 🌱 I’m currently learning **Networking**
 
-- 👯 I’m looking to collaborate on ** Project that Solve interesting business problems and real-world challenges.**
+- 👯 I’m looking to collaborate on **Project that Solve interesting business problems and real-world challenges.**
 
-- ❓ Ask me about **React, Next Js.**
+- ❓ Ask me about **React, Next Js, Javascript**
 
 
 <p align="left">
