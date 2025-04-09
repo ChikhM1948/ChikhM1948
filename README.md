@@ -3,7 +3,7 @@
 
 - 🚀 I’m currently working on **an e-learning platform and a therapy toolbox.**  
 
-- ✨ I’m updating **the attendance student tracker.**
+- ✨ I’m updating **the attendance student tracker & Lingo Lab.**
   
 - 🌱 I’m currently learning **Networking**
 
