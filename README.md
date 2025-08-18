@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chikh Mohamed Amine</h1>
 <h3 align="center">A passionate FullStack Web Developer 🚀 </h3>
 
-- 🚀 I’m currently working on **an e-learning platform and a therapy toolbox.**  
+- 🚀 I’m currently working on **an e-learning platform**  
 
-- ✨ I’m updating **the attendance student tracker & Language Analysis APP.**
+- ✨ I’m updating **Language Analysis APP.**
   
 - 🌱 I’m currently learning **Networking**
 
