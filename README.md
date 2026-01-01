@@ -5,7 +5,7 @@
 
 - ✨ I’m updating **Language Analysis APP.**
   
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **Networking & cyber-Security**
 
 - 👯 I’m looking to collaborate on **Project that Solve interesting business problems and real-world challenges.**
 
